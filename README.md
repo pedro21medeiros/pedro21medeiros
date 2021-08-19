@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pedro Medeiros</h1>
 <h3 align="center">A passionate fullstack developer from Brazil, Rio de Janeiro.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pedro21medeiros" alt="pedro21medeiros" /></a> </p>
 
 - 🔭 I’m currently working on **App de Receitas**
 
