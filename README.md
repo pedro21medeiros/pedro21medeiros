@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **pedro21medeiros@gmail.com**
 
-- 📄 Know about my experiences [Trybe fullstack development student](Trybe fullstack development student)
+- 📄 I'm currently studying at **Trybe**, fullstack development course
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
