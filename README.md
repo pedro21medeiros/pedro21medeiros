@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on **Trybe backend projects**
 
-- 🌱 I’m currently learning **MySQL, MongoDB and NodeJS**
+- 🌱 I’m currently learning **Python**
 
 - 👨‍💻 All of my projects are available at [pedro21medeiros.github.io](pedro21medeiros.github.io)
 
-- 💬 Ask me about **React, Redux, HTML and CSS**
+- 💬 Ask me about **NodeJS, Express, MongoDB, MySQL, React, Redux, HTML and CSS**
 
 - 📫 How to reach me **pedro21medeiros@gmail.com**
 
