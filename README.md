@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 👨‍💻 All of my projects are available at [pedro21medeiros.github.io](pedro21medeiros.github.io)
-
 - 💬 Ask me about **NodeJS, Express, MongoDB, MySQL, React, Redux, HTML and CSS**
 
 - 📫 How to reach me **pedro21medeiros@gmail.com**
