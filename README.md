@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pedro Medeiros</h1>
 <h3 align="center">A passionate fullstack developer from Brazil, Rio de Janeiro.</h3>
 
-- 🔭 I’m currently working on **Trybe backend projects**
+- 🔭 I’m currently working on **Trybe computer science and personal projects**
 
 - 🌱 I’m currently learning **Python**
 
