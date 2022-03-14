@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Trybe computer science and personal projects**
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Python and Java**
 
 - 💬 Ask me about **NodeJS, Express, MongoDB, MySQL, React, Redux, HTML and CSS**
 
