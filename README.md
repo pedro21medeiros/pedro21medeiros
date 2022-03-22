@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Pedro Medeiros</h1>
 <h3 align="center">A passionate fullstack developer from Brazil, Rio de Janeiro.</h3>
 
-- 🔭 I’m currently working on **Trybe computer science and personal projects**
+- 🔭 I’m currently working on **SolarView projects, as a frontend developer**
 
-- 🌱 I’m currently learning **Python and Java**
+- 🌱 I’m currently learning **Python and Typescript**
 
 - 💬 Ask me about **NodeJS, Express, MongoDB, MySQL, React, Redux, HTML and CSS**
 
 - 📫 How to reach me **pedro21medeiros@gmail.com**
 
-- 📄 I'm currently studying at Trybe, fullstack development course
+- 📄 At the moment I'm working as a frontend developer in a Brazilian company
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
