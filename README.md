@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pedro Medeiros</h1>
 <h3 align="center">A passionate fullstack developer from Brazil, Rio de Janeiro.</h3>
 
-- 🔭 I’m currently working on **SolarView projects, as a frontend developer**
+- 🔭 I’m currently working on **SolarView projects, as a fullstack developer**
 
 - 🌱 I’m currently learning **Python and Typescript**
 
@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **pedro21medeiros@gmail.com**
 
-- 📄 At the moment I'm working as a frontend developer in a Brazilian company
+- 📄 At the moment I'm working as a fullstack developer in a Brazilian company
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
